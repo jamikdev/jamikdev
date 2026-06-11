@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jamikdev/jamikdev/main/sening_banner_rasming.png" alt="Jamikdev Banner" width="100%">
+  <img src="[BU_YERGA_RASM_LINKINI_QO'YING](https://github.com/user-attachments/assets/3dbebe77-7f83-4e11-af13-2483ecf656a0)" alt="jamikdev Banner" width="100%">
 
   <br><br>
 
   [![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-black?style=for-the-badge&logo=github)](https://github.com/jamikdev)
   [![YouTube](https://img.shields.io/badge/YOUTUBE-CHANNEL-red?style=for-the-badge&logo=youtube)](https://youtube.com/@jamikdev)
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/profil_linkingiz)
-  [![Contact](https://img.shields.io/badge/CONTACT-ME-orange?style=for-the-badge)](mailto:emailingiz@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your_username)
+  [![Contact](https://img.shields.io/badge/CONTACT-ME-orange?style=for-the-badge)](mailto:your_email@example.com)
 </div>
 
 ---
 
-## 🚀 Men haqimda / About Me
-Salom! Men **jamikdev** — Kompyuter muhandisligi, C++ dasturlash va robototexnika yo'nalishlarida ijod qiluvchi dasturchiman. Qurilmalarni dasturlash, apparat ta'minoti va aqlli tizimlar yaratishga qiziqaman.
+## 🚀 About Me
+Hello! I am **jamikdev**, a passionate Computer Engineering student and developer focusing on C++ programming, robotics, and hardware integration. I love building smart systems and exploring the bridge between software and hardware.
 
-* 🛠️ Hozirda **Fusion 360** da robot-manipulyatorlar loyihalayapman va robototexnika tizimlari ustida ishlayapman.
-* 🎛️ **FPV dronlarni** yig'ish, sozlash va proshivka qilish tajribasiga egaman.
-* 🐧 Doimiy ravishda **Linux (Lubuntu)** muhitida ishlayman va tarmoq texnologiyalarini o'rganaman.
+* 🛠️ Currently modeling advanced robotic manipulators in **Fusion 360** and optimizing hardware controls.
+* 🎛️ Experienced in assembling, tuning, and flashing firmware for custom **5-inch FPV drones** using Betaflight.
+* 🐧 Deeply interested in network analysis, home servers, and Linux development environments (specifically **Lubuntu**).
 
 ---
 
@@ -49,17 +49,20 @@ Salom! Men **jamikdev** — Kompyuter muhandisligi, C++ dasturlash va robototexn
 
 ---
 
-## 📌 Joriy va Rejalashtirilgan Loyihalar (Projects)
+## 📌 Featured Projects
 
-* **🤖 6-Axis Robot Manipulator:** MG90 servomotorlari yordamida harakatlanuvchi va Fusion 360 dasturida mexanik dizayni tayyorlanayotgan robot qo'l.
-* **🕶️ Smart Glasses for Visually Impaired:** Ko'rish qobiliyati cheklanganlar uchun atrof-muhit va ranglarni sun'iy intellekt yordamida aniqlab, ovozli xabar beradigan aqlli ko'zoynak loyihasi (Portfolio asosi).
-* **🛸 5-Inch FPV Drone:** Betaflight dasturi va FlySky resiveri orqali to'liq yig'ilgan hamda proshivka qilingan yuqori tezlikdagi FPV droni.
+* **🤖 6-Axis Robot Manipulator:** A custom robotic arm designed in Fusion 360, utilizing MG90 servo motors for precise multi-axis movement and control.
+* **🕶️ Smart Glasses for Visually Impaired:** A portfolio centerpiece project featuring wearable smart glasses that use AI to analyze environments, detect colors, and deliver real-time audio feedback.
+* **🛸 5-Inch FPV Drone:** A high-performance FPV drone completely built from scratch, calibrated via Betaflight, and bound with a FlySky receiver system.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamikdev&show_icons=true&theme=tokyonight" alt="Jamikdev GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamikdev&show_icons=true&theme=tokyonight" alt="jamikdev GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikdev&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
 </div>
+
+
+<img width="1200" height="400" alt="jamikdev" src="https://github.com/user-attachments/assets/3dbebe77-7f83-4e11-af13-2483ecf656a0" />
