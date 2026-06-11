@@ -13,10 +13,10 @@
   <a href="https://youtube.com/@jamikdev" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/jamikdev" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="rustamovv0222@gmail.com">
     <img src="https://img.shields.io/badge/CONTACT-FF9900?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
   </a>
 </div>
