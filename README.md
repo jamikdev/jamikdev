@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="[BU_YERGA_RASM_LINKINI_QO'YING](https://github.com/user-attachments/assets/3dbebe77-7f83-4e11-af13-2483ecf656a0)" alt="jamikdev Banner" width="100%">
+  <img width="1200" height="400" alt="jamikdev" src="https://github.com/user-attachments/assets/3dbebe77-7f83-4e11-af13-2483ecf656a0" />
+
 
   <br><br>
 
@@ -65,4 +66,3 @@ Hello! I am **jamikdev**, a passionate Computer Engineering student and develope
 </div>
 
 
-<img width="1200" height="400" alt="jamikdev" src="https://github.com/user-attachments/assets/3dbebe77-7f83-4e11-af13-2483ecf656a0" />
