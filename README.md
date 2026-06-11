@@ -1,20 +1,25 @@
 <div align="center">
-  </p><img width="1200" height="400" alt="jamikdev" src="https://github.com/user-attachments/assets/00c13310-83ba-4d0d-947b-e5c74d7415f4" />
+  <img width="1200" height="400" alt="jamikdev" src="https://github.com/user-attachments/assets/235eda1a-0301-4554-9654-dbee899942e7" />
+
   <br><br>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+jamikdev;Computer+Engineering+Student;Building+Robotics+%26+Embedded+Systems;FPV+Drone+Pilot" alt="Typing SVG" />
 
-  <br>
+  <br><br>
 
-  [![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamikdev)
-  [![YouTube](https://img.shields.io/badge/YOUTUBE-CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jamikdev)
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamikdev)
-  [![Contact](https://img.shields.io/badge/CONTACT-ME-FF9900?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rustamovv0222@gmail.com)
+  <a href="https://github.com/jamikdev" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://youtube.com/@jamikdev" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/CONTACT-FF9900?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
+  </a>
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.sh/type=waving&color=gradient&height=60&section=header" width="100%"/>
-</p>
 
 ---
 
@@ -33,7 +38,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cmxpZmd3YmFxbWx0N3R3cXA5aGZsc3hyM3ZpMTN5bm10MnZ6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QssMCEOlE6M8S8InCO/giphy.gif" width="180px"/>
+      <img src="https://media.giphy.com/media/QssMCEOlE6M8S8InCO/giphy.gif" width="180px"/>
     </td>
   </tr>
 </table>
@@ -83,16 +88,14 @@
 ## 📊 Performance Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamikdev&show_icons=true&theme=tokyonight&count_private=true&edge_flat=false" alt="jamikdev Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikdev&layout=compact&theme=tokyonight&edge_flat=false" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamikdev&show_icons=true&theme=tokyonight" alt="jamikdev Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikdev&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jamikdev/jamikdev/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamikdev&theme=tokyonight&area=true" alt="Activity Graph" width="100%">
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.sh/type=waving&color=gradient&height=60&section=footer" width="100%"/>
 
