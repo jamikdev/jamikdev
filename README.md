@@ -64,7 +64,10 @@
 
 <div align="center">
 
-<div class="tenor-gif-embed" data-postid="17808977" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-encoding-typing-working-busy-gif-17808977">Code Encoding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> <div class="tenor-gif-embed" data-postid="19684211" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-computer-gif-19684211">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img width="220" height="220" alt="cats-computer" src="https://github.com/user-attachments/assets/2d47d41e-8b80-4f57-b18f-ace02d485c3f" />
+<img width="200" height="200" alt="font-hacker" src="https://github.com/user-attachments/assets/1fdc571e-c48c-4e8c-a88e-a286a8564deb" />
+<img width="220" height="147" alt="stop-vibe" src="https://github.com/user-attachments/assets/57f6e329-d39e-41a7-822c-e838b9fcf376" />
+
 
 
 </div>
