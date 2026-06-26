@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+jamikdev+%F0%9F%91%8B;CS+Student+%26+Builder;Full+Stack+Developer;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+jamikdev;Software+Engineer+%26+Builder;Embedded+%26+Full+Stack;Turning+coffee+into+clean+code+%E2%98%95)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
@@ -8,43 +8,41 @@
 
 ---
 
-## 🎓 About Me
+## About Me
 
-- 📚 Currently a **Computer Engineering student** — learning something new every day
-- 🔨 I build real projects to actually understand what I'm studying
-- 🧩 Love breaking problems apart and finding the elegant solution hiding inside
-- 🐛 My debugging skill? First I panic, then I fix it, then I pretend I knew all along
-- 🌍 Based in **Tashkent** — building things from Central Asia for the world
-- 🎯 2025 goal: contribute to open source and ship projects that matter
-- ⚡ Fun fact: I've spent more time naming variables than writing some functions
+- Aspiring Computer and Software Engineer focused on understanding systems from low-level memory management to high-level application architecture.
+- Dedicated to building real-world software solutions, specialized desktop environments, and integrated hardware projects.
+- Core technical focus areas include performance optimization, type safety, and robust data persistence.
+- Strong advocate for development in Unix/Linux environments and containerized workflows.
+- Based in Uzbekistan, building software solutions for a global scale.
+- 2026 Goals: Deliver premium desktop applications using Tauri, contribute to open-source systems, and integrate intelligent edge computing.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack and Ecosystem
 
-### 💬 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+### Systems and Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 
-### 📦 Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff)
+### Frontend and Desktop Applications
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=000000)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
 
-### 🗄️ Databases & Tools
+### Backend, Infrastructure and Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -62,7 +60,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -72,7 +70,7 @@
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -82,7 +80,7 @@
 
 ---
 
-## 🎲 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -92,7 +90,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
