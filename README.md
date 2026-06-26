@@ -68,6 +68,7 @@
 <img width="200" height="200" alt="font-hacker" src="https://github.com/user-attachments/assets/1fdc571e-c48c-4e8c-a88e-a286a8564deb" />
 <img width="220" height="147" alt="stop-vibe" src="https://github.com/user-attachments/assets/57f6e329-d39e-41a7-822c-e838b9fcf376" />
 
+<img width="2560" height="1440" alt="Blue and White Modern Gym   Fitness YouTube Banner" src="https://github.com/user-attachments/assets/bf43dbd5-b85f-4c2e-a447-6a7c2f909c2d" />
 
 
 </div>
