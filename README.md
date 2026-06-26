@@ -60,11 +60,12 @@
 
 ---
 
-## GitHub Trophies
+## RANDOM GIFs
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jamikdev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" alt="GitHub Trophies" />
+<div class="tenor-gif-embed" data-postid="17808977" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-encoding-typing-working-busy-gif-17808977">Code Encoding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> <div class="tenor-gif-embed" data-postid="19684211" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-computer-gif-19684211">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 </div>
 
