@@ -7,7 +7,7 @@
   4. Replace every YOUR_USERNAME / YOUR_HANDLE placeholder below.
 -->
 
-<h1 align="center">Hey, I'm <YOUR NAME> 👋</h1>
+<h1 align="center">Hey, I'm <Jamikdev> 👋</h1>
 
 <p align="center">
   <b>Competitive Programmer</b> · <b>C++ Enthusiast</b> · <b>CS Student</b>
@@ -67,10 +67,10 @@ int main() {
 
 | Platform | Handle | Profile |
 |---|---|---|
-| Codeforces | `YOUR_HANDLE` | [→ visit](https://codeforces.com/profile/YOUR_HANDLE) |
-| AtCoder | `YOUR_HANDLE` | [→ visit](https://atcoder.jp/users/YOUR_HANDLE) |
-| LeetCode | `YOUR_HANDLE` | [→ visit](https://leetcode.com/YOUR_HANDLE) |
-| CodeChef | `YOUR_HANDLE` | [→ visit](https://www.codechef.com/users/YOUR_HANDLE) |
+| Codeforces | `jamikdev` | [→ visit](https://codeforces.com/profile/jamikdev) |
+| AtCoder | `jamikdev` | [→ visit](https://atcoder.jp/users/jamikdev) |
+| LeetCode | `jamikdev` | [→ visit](https://leetcode.com/jamikdev) |
+| CodeChef | `jamikdev` | [→ visit](https://www.codechef.com/users/jamikdev) |
 
 <!-- Live Codeforces rating card — just swap the handle -->
 <p align="left">
@@ -111,9 +111,9 @@ int main() {
 
 ## 📌 Pinned Work
 
-- 🧮 **[Competitive-Programming](https://github.com/YOUR_USERNAME/Competitive-Programming)** — My solutions archive, sorted by topic and judge
-- 📘 **[CP-Templates](https://github.com/YOUR_USERNAME/CP-Templates)** — Battle-tested C++ templates (segment tree, DSU, fast I/O, modint)
-- 🎓 **[CS-Coursework](https://github.com/YOUR_USERNAME/CS-Coursework)** — University projects: OS, DBMS, networks, compilers
+- 🧮 **[Competitive-Programming](https://github.com/jamikdev/Competitive-Programming)** — My solutions archive, sorted by topic and judge
+- 📘 **[CP-Templates](https://github.com/jamikdev/CP-Templates)** — Battle-tested C++ templates (segment tree, DSU, fast I/O, modint)
+- 🎓 **[CS-Coursework](https://github.com/jamikdev/CS-Coursework)** — University projects: OS, DBMS, networks, compilers
 
 ---
 
