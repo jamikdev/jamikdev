@@ -1,114 +1,135 @@
-<div align="center">
+<!--
+  GITHUB PROFILE README
+  ---------------------
+  1. Create a repo named exactly the same as your GitHub username.
+  2. Make it public + check "Add a README file".
+  3. Paste this file's content into README.md.
+  4. Replace every YOUR_USERNAME / YOUR_HANDLE placeholder below.
+-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+jamikdev;Software+Engineer+%26+Builder;Embedded+%26+Full+Stack;Turning+coffee+into+clean+code+%E2%98%95)](https://git.io/typing-svg)
+<h1 align="center">Hey, I'm <YOUR NAME> 👋</h1>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+<p align="center">
+  <b>Competitive Programmer</b> · <b>C++ Enthusiast</b> · <b>CS Student</b>
+</p>
 
-</div>
-
----
-
-## About Me
-
-- Aspiring Computer and Software Engineer focused on understanding systems from low-level memory management to high-level application architecture.
-- Dedicated to building real-world software solutions, specialized desktop environments, and integrated hardware projects.
-- Core technical focus areas include performance optimization, type safety, and robust data persistence.
-- Strong advocate for development in Unix/Linux environments and containerized workflows.
-- Based in Uzbekistan, building software solutions for a global scale.
-- 2026 Goals: Deliver premium desktop applications using Tauri, contribute to open-source systems, and integrate intelligent edge computing.
-
----
-
-## Tech Stack and Ecosystem
-
-### Systems and Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-
-### Frontend and Desktop Applications
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=000000)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
-
-### Backend, Infrastructure and Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=int+main()+%7B+solve();+%7D;Chasing+that+Accepted+verdict.;Algorithms+%7C+Data+Structures+%7C+Problem+Solving;Segfaults+are+just+misunderstood+features." alt="Typing SVG" />
+</p>
 
 ---
 
-## GitHub Stats
+## 🧠 About Me
 
-<div align="center">
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
 
-<img src="https://github-readme-stats.vercel.app/api?username=jamikdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamikdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
+struct Developer {
+    string name      = "<YOUR NAME>";
+    string role      = "CS Student & Competitive Programmer";
+    string language  = "C++";
+    vector<string> focus = {"Algorithms", "Data Structures", "Problem Solving"};
+    vector<string> judges = {"Codeforces", "AtCoder", "LeetCode", "CSES"};
+    string motto     = "Read the constraints. Twice.";
+};
 
-</div>
+int main() {
+    Developer me;
+    while (true) {
+        me.solve();
+        me.learn();
+        me.repeat();
+    }
+}
+```
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jamikdev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-</div>
-
----
-
-## RANDOM GIFs
-
-<div align="center">
-
-<img width="220" height="220" alt="cats-computer" src="https://github.com/user-attachments/assets/2d47d41e-8b80-4f57-b18f-ace02d485c3f" />
-<img width="200" height="200" alt="font-hacker" src="https://github.com/user-attachments/assets/1fdc571e-c48c-4e8c-a88e-a286a8564deb" />
-<img width="220" height="147" alt="stop-vibe" src="https://github.com/user-attachments/assets/57f6e329-d39e-41a7-822c-e838b9fcf376" />
-
-
-
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jamikdev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
+- 🎯 Currently grinding **Codeforces** and **CSES** problem sets
+- 🧩 Strong interest in **graph theory, DP, and number theory**
+- 🌱 Learning **system design** and **low-level optimization**
+- ⚡ Fun fact: my code compiles on the first try roughly 3% of the time
 
 ---
 
-## Random Dev Quote
+## 🛠️ Tech Stack
 
-<div align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,git,github,linux,vscode,bash,mysql,cmake&theme=dark" />
+</p>
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/jamikdev)
-&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/jamikdev)
-
-</div>
+**Primary:** C++ (17/20) — STL, templates, bit manipulation, custom comparators
+**Also use:** Python (scripting & brute-force testing), C, Java
+**Tools:** Git, Linux, GDB, VS Code, CMake, Valgrind
 
 ---
 
-<div align="right">
+## 🏆 Competitive Programming
 
-![Profile Views](https://komarev.com/ghpvc/?username=jamikdev&color=7aa2f7&style=flat-square&label=profile+views)
+| Platform | Handle | Profile |
+|---|---|---|
+| Codeforces | `YOUR_HANDLE` | [→ visit](https://codeforces.com/profile/YOUR_HANDLE) |
+| AtCoder | `YOUR_HANDLE` | [→ visit](https://atcoder.jp/users/YOUR_HANDLE) |
+| LeetCode | `YOUR_HANDLE` | [→ visit](https://leetcode.com/YOUR_HANDLE) |
+| CodeChef | `YOUR_HANDLE` | [→ visit](https://www.codechef.com/users/YOUR_HANDLE) |
 
-</div>
+<!-- Live Codeforces rating card — just swap the handle -->
+<p align="left">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_HANDLE&theme=dark" alt="Codeforces Stats" />
+</p>
+
+<!-- Live LeetCode card -->
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/YOUR_HANDLE?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 📚 Topics I Work With
+
+`Dynamic Programming` `Graph Algorithms` `Segment Trees` `Binary Search`
+`Number Theory` `Greedy` `Two Pointers` `DSU` `Trees & LCA` `Combinatorics`
+`String Algorithms (KMP, Z-function, Hashing)` `Bitmask DP` `Sparse Table`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=5" />
+</p>
+
+---
+
+## 📌 Pinned Work
+
+- 🧮 **[Competitive-Programming](https://github.com/YOUR_USERNAME/Competitive-Programming)** — My solutions archive, sorted by topic and judge
+- 📘 **[CP-Templates](https://github.com/YOUR_USERNAME/CP-Templates)** — Battle-tested C++ templates (segment tree, DSU, fast I/O, modint)
+- 🎓 **[CS-Coursework](https://github.com/YOUR_USERNAME/CS-Coursework)** — University projects: OS, DBMS, networks, compilers
+
+---
+
+## 🤝 Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/YOUR_HANDLE"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/YOUR_HANDLE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00b4d8" alt="Profile views" />
+</p>
+
+<p align="center"><i>"Constraints are hints in disguise."</i></p>
