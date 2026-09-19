@@ -26,7 +26,7 @@
 using namespace std;
 
 struct Developer {
-    string name      = "<YOUR NAME>";
+    string name      = "jamikdev";
     string role      = "CS Student & Competitive Programmer";
     string language  = "C++";
     vector<string> focus = {"Algorithms", "Data Structures", "Problem Solving"};
@@ -74,7 +74,7 @@ int main() {
 
 <!-- Live Codeforces rating card — just swap the handle -->
 <p align="left">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_HANDLE&theme=dark" alt="Codeforces Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jamikdev&theme=dark" alt="Codeforces Stats" />
 </p>
 
 <!-- Live LeetCode card -->
